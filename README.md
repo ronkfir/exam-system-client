@@ -1,6 +1,6 @@
 # Exam System
 
-By Ron Kfir (318677028)
+By Ron Kfir
 Tel-Hai College
 
 ## About
